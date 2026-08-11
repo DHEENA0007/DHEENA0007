@@ -205,12 +205,11 @@ class Dheena:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=DHEENA0007&show_icons=true&theme=default&title_color=FF5722&icon_color=FF5722&border_color=eeeeee&include_all_commits=true&count_private=true&hide_border=false&ring_color=FF5722" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=DHEENA0007&theme=default&ring=FF5722&fire=FF5722&currStreakLabel=FF5722&sideLabels=FF5722&dates=888888&border=eeeeee" />
+| GitHub Stats | Top Languages |
+|:---:|:---:|
+| ![stats](https://github-readme-stats.vercel.app/api?username=DHEENA0007&show_icons=true&theme=default&title_color=FF5722&icon_color=FF5722&border_color=eeeeee&include_all_commits=true&count_private=true&hide_border=false) | ![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DHEENA0007&layout=compact&theme=default&title_color=FF5722&border_color=eeeeee&langs_count=8&count_private=true) |
 
-<br/><br/>
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DHEENA0007&layout=donut&theme=default&title_color=FF5722&border_color=eeeeee&langs_count=8&count_private=true" />
+![streak](https://streak-stats.demolab.com?user=DHEENA0007&theme=default&ring=FF5722&fire=FF5722&currStreakLabel=FF5722&sideLabels=FF5722&dates=888888&border=eeeeee&hide_border=false)
 
 </div>
 
@@ -220,7 +219,7 @@ class Dheena:
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=DHEENA0007&theme=flat&column=7&margin-w=10&margin-h=10&no-bg=true&no-frame=true" />
+![trophies](https://github-profile-trophy.vercel.app/?username=DHEENA0007&theme=flat&column=7&margin-w=10&margin-h=10&no-bg=true&no-frame=true)
 
 </div>
 
@@ -230,7 +229,7 @@ class Dheena:
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=DHEENA0007&theme=minimal&color=FF5722&line=FF5722&point=FF5722&area=true&area_color=FF572215&hide_border=true&radius=8" />
+![activity](https://github-readme-activity-graph.vercel.app/graph?username=DHEENA0007&theme=minimal&color=FF5722&line=FF5722&point=FF5722&area=true&hide_border=true&radius=8)
 
 </div>
 
