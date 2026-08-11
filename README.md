@@ -204,12 +204,12 @@ class Dheena:
 ## 📊 GitHub Stats
 
 <div align="center">
+<table><tr>
+<td><img src="https://github-readme-stats.vercel.app/api?username=DHEENA0007&show_icons=true&theme=default&title_color=FF5722&icon_color=FF5722&border_color=eeeeee&include_all_commits=true&count_private=true&hide_border=false" /></td>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DHEENA0007&layout=compact&theme=default&title_color=FF5722&border_color=eeeeee&langs_count=8&count_private=true" /></td>
+</tr></table>
 
-| GitHub Stats | Top Languages |
-|:---:|:---:|
-| ![stats](https://github-readme-stats.vercel.app/api?username=DHEENA0007&show_icons=true&theme=default&title_color=FF5722&icon_color=FF5722&border_color=eeeeee&include_all_commits=true&count_private=true&hide_border=false) | ![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DHEENA0007&layout=compact&theme=default&title_color=FF5722&border_color=eeeeee&langs_count=8&count_private=true) |
-
-![streak](https://streak-stats.demolab.com?user=DHEENA0007&theme=default&ring=FF5722&fire=FF5722&currStreakLabel=FF5722&sideLabels=FF5722&dates=888888&border=eeeeee&hide_border=false)
+<img src="https://streak-stats.demolab.com?user=DHEENA0007&theme=default&ring=FF5722&fire=FF5722&currStreakLabel=FF5722&sideLabels=FF5722&dates=888888" />
 
 </div>
 
@@ -218,9 +218,7 @@ class Dheena:
 ## 🏆 Trophies
 
 <div align="center">
-
-![trophies](https://github-profile-trophy.vercel.app/?username=DHEENA0007&theme=flat&column=7&margin-w=10&margin-h=10&no-bg=true&no-frame=true)
-
+<img src="https://github-profile-trophy.vercel.app/?username=DHEENA0007&theme=flat&column=7&margin-w=10&no-bg=true&no-frame=true" />
 </div>
 
 ---
@@ -229,7 +227,7 @@ class Dheena:
 
 <div align="center">
 
-![activity](https://github-readme-activity-graph.vercel.app/graph?username=DHEENA0007&theme=minimal&color=FF5722&line=FF5722&point=FF5722&area=true&hide_border=true&radius=8)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DHEENA0007&theme=minimal&color=FF5722&line=FF5722&point=FF5722&area=true&hide_border=true&radius=8" />
 
 </div>
 
