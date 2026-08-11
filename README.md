@@ -4,17 +4,9 @@
 
 <div align="center">
 
-<a href="https://github.com/DHEENA0007">
-  <img src="https://komarev.com/ghpvc/?username=DHEENA0007&style=flat-square&color=FF5722&label=👁️ Profile+Views" />
-</a>
-&nbsp;
-<a href="https://github.com/DHEENA0007?tab=followers">
-  <img src="https://img.shields.io/github/followers/DHEENA0007?style=flat-square&color=FF5722&label=Followers&logo=github" />
-</a>
-&nbsp;
-<img src="https://img.shields.io/badge/Focus-Building%20Real%20Products-FF5722?style=flat-square" />
-&nbsp;
-<img src="https://img.shields.io/badge/Lives-Tamil%20Nadu%20🇮🇳-FF5722?style=flat-square" />
+[![followers](https://img.shields.io/github/followers/DHEENA0007?style=flat-square&color=FF5722&label=Followers&logo=github)](https://github.com/DHEENA0007?tab=followers)
+![Focus](https://img.shields.io/badge/Focus-Building%20Real%20Products-FF5722?style=flat-square)
+![Lives](https://img.shields.io/badge/Lives-Tamil%20Nadu%20🇮🇳-FF5722?style=flat-square)
 
 <br/><br/>
 
@@ -204,12 +196,14 @@ class Dheena:
 ## 📊 GitHub Stats
 
 <div align="center">
-<table><tr>
-<td><img src="https://github-readme-stats.vercel.app/api?username=DHEENA0007&show_icons=true&theme=default&title_color=FF5722&icon_color=FF5722&border_color=eeeeee&include_all_commits=true&count_private=true&hide_border=false" /></td>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DHEENA0007&layout=compact&theme=default&title_color=FF5722&border_color=eeeeee&langs_count=8&count_private=true" /></td>
-</tr></table>
 
 <img src="https://streak-stats.demolab.com?user=DHEENA0007&theme=default&ring=FF5722&fire=FF5722&currStreakLabel=FF5722&sideLabels=FF5722&dates=888888" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=DHEENA0007&show_icons=true&theme=default&title_color=FF5722&icon_color=FF5722&border_color=eeeeee&count_private=true&hide_border=false&cache_seconds=3600" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DHEENA0007&layout=compact&theme=default&title_color=FF5722&border_color=eeeeee&langs_count=8&count_private=true&cache_seconds=3600" />
 
 </div>
 
@@ -218,7 +212,7 @@ class Dheena:
 ## 🏆 Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=DHEENA0007&theme=flat&column=7&margin-w=10&no-bg=true&no-frame=true" />
+<img src="https://github-profile-trophy.vercel.app/?username=DHEENA0007&theme=flat&column=4&margin-w=10&no-bg=true&no-frame=true" />
 </div>
 
 ---
