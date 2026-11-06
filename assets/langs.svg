@@ -15,7 +15,7 @@
   <rect x="46" y="144" width="85" height="4" fill="#f7523f" rx="2" opacity="0.35"/>
   <circle cx="30" cy="170" r="6" fill="#3178c6"/>
   <text x="46" y="175" font-family="Segoe UI,sans-serif" font-size="13" font-weight="600" fill="#212121">TypeScript</text>
-  <text x="475" y="175" font-family="Segoe UI,sans-serif" font-size="12" fill="#888" text-anchor="end">20.0%</text>
+  <text x="475" y="175" font-family="Segoe UI,sans-serif" font-size="12" fill="#888" text-anchor="end">20.1%</text>
   <rect x="46" y="180" width="80" height="4" fill="#3178c6" rx="2" opacity="0.35"/>
   <circle cx="30" cy="206" r="6" fill="#00B4AB"/>
   <text x="46" y="211" font-family="Segoe UI,sans-serif" font-size="13" font-weight="600" fill="#212121">Dart</text>
